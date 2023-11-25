@@ -1,0 +1,10 @@
+INSERT INTO employees (first_name, last_name, salary) VALUES ('John', 'Doe', 3000);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Alice', 'Smith', 3500);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Bob', 'Johnson', 4000);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Emily', 'Brown', 4500);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Michael', 'Davis', 5000);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Emma', 'Miller', 5500);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Christopher', 'Martinez', 6000);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Olivia', 'Garcia', 6500);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('William', 'Taylor', 7000);
+INSERT INTO employees (first_name, last_name, salary) VALUES ('Sophia', 'Anderson', 7500);
